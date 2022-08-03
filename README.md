@@ -7,7 +7,6 @@
     -Views melhores com Thymeleaf
     -Validação de dados com o BeanValidation
     -Injeção de dependências
-    -Spring Security para criar um login
     -Estilização o HTML com Bootstrap
 
 
