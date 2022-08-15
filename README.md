@@ -7,6 +7,6 @@
     -Views melhores com Thymeleaf
     -Validação de dados com o BeanValidation
     -Injeção de dependências
-    -Estilização o HTML com Bootstrap
+    -Estilização do HTML com Bootstrap
 
 
